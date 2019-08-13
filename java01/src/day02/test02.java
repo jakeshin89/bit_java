@@ -1,6 +1,6 @@
 package day02;
 
-public class test02 {			//여기에서 테스트
+public class test02 {
 	public static void main(String[] args) {
 		double d = 1/2.;
 		// 여기에서 num(위에선 d)은 local variable (main 안에서 생성한게 로컬 베리어블인가? 인스턴트는 힙에서? 아 몰랑)

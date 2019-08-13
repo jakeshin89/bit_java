@@ -1,7 +1,6 @@
 package day02;
 
 public class test01 {
-	// Data(변수) + Method(기능)
 	
 	public static void main(String[] args) {
 	
@@ -16,7 +15,7 @@ public class test01 {
 		
 	boolean flag = true;
 	char c = 'b';
-	float f1 = 55.9f;				// 55.9 얘 더블형 아니고 플롯형이야 라고 알려주기 위해 숫자 옆에 f 입력
+	float f1 = 55.9f;			// 55.9 얘 더블형 아니고 플롯형이야 라고 알려주기 위해 숫자 옆에 f 입력
 	float f2 = (float)55.9;		// 더블형을 플롯형으로 형변환을 시켜주세요 라고 casting(float)하기
 	
 	double d1 = 55.9;
